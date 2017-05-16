@@ -100,7 +100,7 @@ export default class Presentation extends React.Component {
         </Slide>
 
         <Slide transition={["slide"]} bgColor="black" maxHeight="90vh" maxWidth="80vw">
-          <iframe src="http://editor.ory.am" style={{ width: '100%', height: '80vh' }} />
+          <iframe src="https://editor.ory.am" style={{ width: '100%', height: '80vh' }} />
         </Slide>
 
         <Slide transition={["slide"]} bgColor="black">
