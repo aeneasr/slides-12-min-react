@@ -113,14 +113,14 @@ export default class Presentation extends React.Component {
 
         <Slide transition={["zoom"]} bgColor="secondary" textColor="primary">
           <List>
-            <Appear><ListItem>It makes writing HTML + CSS + Javascript easier</ListItem></Appear>
+            <Appear><ListItem>JSX makes writing HTML + CSS + Javascript easier</ListItem></Appear>
             <Appear><ListItem>Components are the future of web development</ListItem></Appear>
             <Appear><ListItem>React is extremely efficient</ListItem></Appear>
             <Appear><ListItem>It's awesome for SEO</ListItem></Appear>
             <Appear><ListItem>You get amazing, out-of-the-box developer tools</ListItem></Appear>
             <Appear><ListItem>You can write native (OSX, Android) apps with it</ListItem></Appear>
             <Appear><ListItem>And...</ListItem></Appear>
-            <Appear><ListItem>Facebook is written with it</ListItem></Appear>
+            <Appear><ListItem>Facebook is written with React</ListItem></Appear>
           </List>
         </Slide>
 
